@@ -1,0 +1,9 @@
+#!/bin/bash
+
+function repsistance-jenny() {
+
+  docker run --rm -it \
+    -v $PWD/..:/blog \
+    rcmorano/jenny
+
+}

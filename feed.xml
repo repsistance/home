@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>La RepsitancE</title>
+  <link>https://repsistance.github.io</link>
+  <description></description>
+
+	<item>
+	<title>just-a-poc</title>
+  <link>https://repsistance.github.io/post/landing.html</link>
+	<description></description>
+	<pubDate></pubDate>
+</item>
+
+</channel>
+</rss>
