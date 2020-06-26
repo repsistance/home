@@ -2,6 +2,7 @@
 
 BLOG_HOST="https://repsistance.github.io"
 BLOG_TITLE="La RepsitancE"
+BLOG_BASE_URL="/homepage"
 POSTS_PER_PAGE=16
 
 # This is your build directory

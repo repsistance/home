@@ -1,0 +1,5 @@
+# Manifesto
+
+* a
+* abc
+* abcd
