@@ -4,7 +4,7 @@
 IFS='✂︎' read -r -a array <<< "$LIST"
 
 source .layout/functions.sh
-
+source .blogrc
 
 function index_loop {
 	for (( idx=${#array[@]}-1 ; idx>=0 ; idx-- )) ; do
@@ -15,11 +15,11 @@ function index_loop {
 function list_item {
   if [ -z "$BREAK" ]; then
 cat << _LOOP_
-  <li class="post-link"><a href="${BLOG_BASE_URL}/$(echo $POST_URL)"><span class="stamp">$(get-my-date-format ${POST_DATE_RFC822})</span> <span class="title">$(echo ${POST_TITLE})</span></a></li>
+  <li class="post-link"><a href="${BLOG_BASE_URL}$(echo $POST_URL)"><span class="stamp">${POST_DATE_RFC822}</span> <span class="title">$(echo ${POST_TITLE})</span></a></li>
 _LOOP_
 #  else
 #cat << _LOOP_
-#  <li class="post-link"><a href="${BLOG_BASE_URL}/page/$(echo ${BREAK}).html">In page $(echo ${BREAK})</a></li>
+#  <li class="post-link"><a href="${BLOG_BASE_URL}page/$(echo ${BREAK}).html">In page $(echo ${BREAK})</a></li>
 #_LOOP_
   fi
 }

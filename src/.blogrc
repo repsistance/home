@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-BLOG_HOST="https://repsistance.github.io"
-BLOG_TITLE="La RepsitancE"
-BLOG_BASE_URL="${BLOG_HOST}/homepage"
+export BLOG_HOST="https://repsistance.github.io"
+export BLOG_TITLE="La RepsitancE"
+export BLOG_BASE_URL="${BLOG_HOST}/homepage"
 POSTS_PER_PAGE=16
 
 # This is your build directory
