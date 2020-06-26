@@ -1,3 +1,9 @@
+# Editor setup
+
+* Install Docker:
+* Install [baids]
+* Install [docker-jenny] baids
+
 # How to write new posts
 
 - cd src
@@ -9,7 +15,5 @@
 - git ci -am"new post blablabla"
 - git push
 
-# TODO
-
-- Containerize
-  - Depends: mdown (npm)
+[baids]: https://github.com/rcmorano/baids
+[docker-jenny]: https://github.com/rcmorano/docker-jenny
