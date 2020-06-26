@@ -5,9 +5,7 @@ MARKDOWN_COMMAND="mdown -i"
 
 function get-my-date-format {
 
-  set -x
   POST_DATE_RFC822="$@"
   echo $POST_DATE_RFC822 | date +%Y%m%d
-  set +x
 
 }

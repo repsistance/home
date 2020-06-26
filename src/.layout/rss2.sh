@@ -13,7 +13,7 @@ function list_item {
 cat << _LOOP_
 <item>
 	<title>$(echo $POST_TITLE)</title>
-  <link>$(echo $BLOG_HOST)$(echo $POST_URL)</link>
+  <link>$(echo $BLOG_HOST_BASE_URL)$(echo $POST_URL)</link>
 	<description></description>
 	<pubDate>$(echo $POST_DATE_RFC822)</pubDate>
 </item>
