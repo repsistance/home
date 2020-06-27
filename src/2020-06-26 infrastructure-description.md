@@ -1,6 +1,7 @@
-# Infrastructure Description
+# Cardano Infrastructure Description
 
-* we run on k8s to easily scale up/be resilient and highly available
-* we use remote block storage to ensure failing disks are not a problem
-* we build from nixos source to ensure we run untainted software (no github, no hydra)
-* we use an anti-ddos to protect our relays
+`TODO: explain and develop further these points`
+- [] k8s setup to easily scale up/be resilient and highly available
+- [] CI using nixos to ensure we run untainted software (zero-trust, no github-actions, no hydra...)
+- [] Using anti-ddos to protect our nodes
+- [] Add some diagrams

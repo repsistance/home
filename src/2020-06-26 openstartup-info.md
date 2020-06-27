@@ -13,10 +13,10 @@ Our initial plan is to run at least two different clusters:
 
 Future plan is to deploy a network of backup nodes all around the world along with little local providers/datacenters that trully make Cardano a decentralized network.
 
-### Testnet(s) cluster(s) 
+### Testnet(s)/Development cluster(s) 
 
-We are currently hosting various pools on different testnets in this cluster so we can get insights on resources consumption, deployment and maintenance processes and any other development on top of Cardano project.
-We'll probably also run temporary/development clones of this cluster for tasks that could potentially, interrupt operation on some critical testnets (like incentivised ones).
+We are currently hosting various pools on different testnets in this cluster so we can get insights on resources consumption, deployment and maintenance processes and any other development on top of Cardano project. 
+We also run software builds on it and we'll probably also run temporary/development clones of this cluster for running simulations of tasks that could potentially, interrupt the operation on some critical testnets (like incentivised ones).
 
 At this moment, we are running on these 2 networks; although we hope [ITN (Incentivised Testnet)][itn] survives so we can also host a [jormungandr] cluster soon:
 

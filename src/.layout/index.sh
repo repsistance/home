@@ -46,7 +46,7 @@ cat << _EOF_
     <div class="wrap">
       $(if [ "${TAGNAME}" ]; then echo "<header><a href=\"/tag/${TAGNAME}\">TAG: ${TAGNAME}</a></header>"; fi)
       <ul class="posts">
-        Updated / Page
+        Updated | Page
   			$(index_loop)
       </ul>
   		$(nav)
