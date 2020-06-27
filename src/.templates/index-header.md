@@ -1,3 +1,3 @@
 # La RepsistancE
 
-Looking for an autonomous, decentralized and censorship-resistant Internet.
+Back from the 80's to preserve a decentralized and censorship-resistant Internet and run cool things.
