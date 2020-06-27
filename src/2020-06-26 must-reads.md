@@ -1,6 +1,6 @@
 # Cardano Must Reads
 
-* Must reads from Lars Brünjes Education Director @ IOHK, [lars-brunjes-linkedin)](Linkedin), [lars-brunjes-twitter](Twitter)
+* Must reads from Lars Brünjes (Education Director @ IOHK, (Linkedin)[lars-brunjes-linkedin], (Twitter)[lars-brunjes-twitter])
   * [Iterating for growth with IOHK research](https://iohk.io/en/blog/posts/2020/06/25/iterating-for-growth-with-iohk/)
 
 [lars-brunjes-gh]: https://github.com/brunjlar
