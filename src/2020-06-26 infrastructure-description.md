@@ -1,4 +1,4 @@
-# Setup Description
+# Infrastructure Description
 
 * we run on k8s to easily scale up/be resilient and highly available
 * we use remote block storage to ensure failing disks are not a problem

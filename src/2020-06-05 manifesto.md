@@ -1,7 +1,6 @@
 # Manifesto
 
-# TODO
-
+`TODO:`
 * Explain inspirations:
 - [x] OpenStartup
 - [ ] https://cardano.org/why/

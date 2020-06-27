@@ -6,12 +6,6 @@
   <description></description>
 
 	<item>
-	<title>Setup Description</title>
-  <link>/post/setup-description.html</link>
-	<description></description>
-	<pubDate>Sat, 27 Jun 2020 18:30:47 +0000</pubDate>
-</item>
-<item>
 	<title>OpenStartup Info</title>
   <link>/post/openstartup-info.html</link>
 	<description></description>
@@ -24,10 +18,16 @@
 	<pubDate>Sat, 27 Jun 2020 09:12:03 +0000</pubDate>
 </item>
 <item>
-	<title>Manifesto TODO</title>
+	<title>Infrastructure Description</title>
+  <link>/post/infrastructure-description.html</link>
+	<description></description>
+	<pubDate>Sat, 27 Jun 2020 21:06:39 +0000</pubDate>
+</item>
+<item>
+	<title>Manifesto</title>
   <link>/post/manifesto.html</link>
 	<description></description>
-	<pubDate>Sat, 27 Jun 2020 20:55:00 +0000</pubDate>
+	<pubDate>Sat, 27 Jun 2020 21:07:55 +0000</pubDate>
 </item>
 
 </channel>
