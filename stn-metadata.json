@@ -1,6 +1,6 @@
 {
   "name": "La_RepsistancE",
-  "ticker": "RPST",
-  "description": "WeSC",
+  "ticker": "RPST0",
+  "description": "Resilient and Highly Available Kubernetes-powered pool.",
   "homepage": "https://twitter.com/repsistance"
 }
