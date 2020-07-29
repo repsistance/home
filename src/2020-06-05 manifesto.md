@@ -16,7 +16,7 @@ And last but not least, we'll try to keep our operational costs and fees as low 
 * Variable Fee: 4.2%
 
 [openstartup]: https://twitter.com/levelsio/status/968219339588493312
-[openstartp-info]: https://repsistance.github.io/home/post/openstartup-info.html
+[openstartup-info]: https://repsistance.github.io/home/post/openstartup-info.html
 [opensource-everything]: https://wiki.p2pfoundation.net/Open_Source_Everything_Manifesto
 [tg-news-chan]: https://t.me/cardano_repsistance
 [tg-support-chan]: https://t.me/joinchat/AFeY_BcD7lS5iESUoRD1mQ
