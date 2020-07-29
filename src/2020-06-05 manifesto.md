@@ -6,8 +6,8 @@ This implies some commitments, so here are ours:
 * Provide transparency on how we run and evolve our particular ecosystem so delegators can make the best decissions. We aim to be an [OpenStartup][openstartup] and already have published [some info][openstartup-info], but you can ask questions in our [Telegram support channel][tg-support-chan] and we'll try to keep you updated on the [announcements channel][tg-news-chan].
 * Run our stake pools without service disruption for as long as Cardano is alive. We are not worried about short term operational costs, so we won't stop running because of them.
 * Fulfill a SLA (Service Level Agreement) of 99.9% of availability. We run `cardano-node` on [Kubernetes][why-k8s] and do our best on automating everything so pools are resilient, highly-available and ready to scale in a matter of seconds.
-* Run multiple pools when saturation is reached. But don't worry, we'll always keep them geographically distributed to keep decentralization. Long term plans are to support local datacenters all around the world!
-* Do our best to [OpenSource everything][opensource-everything] just in case someone else can take advantage of it. We want Cardano running in every remote corner of this planet, so we need to spread the word.
+* Run multiple pools when saturation is reached. But don't worry, we'll always keep them geographically distributed to maintain decentralization. Long term plans are to support local datacenters all around the world!
+* Do our best to [OpenSource everything][opensource-everything] just in case someone else can take advantage of it. We want Cardano running in every remote corner of this planet, so we need to spread the word and the knowledge.
 * Do whatever is on our hands to keep Cardano ecosystem alive and healthy. This includes reporting/fixing bugs, running testnets to explore, creating tools and collaborating with the community.
 
 And last but not least, we'll try to keep our operational costs and fees as low as possible, starting from these numbers:
