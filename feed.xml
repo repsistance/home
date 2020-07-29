@@ -6,10 +6,16 @@
   <description></description>
 
 	<item>
+	<title>WHO WE ARE</title>
+  <link>/post/who-we-are.html</link>
+	<description></description>
+	<pubDate>Wed, 29 Jul 2020 11:55:53 +0000</pubDate>
+</item>
+<item>
 	<title>OpenStartup Info</title>
   <link>/post/openstartup-info.html</link>
 	<description></description>
-	<pubDate>Sat, 27 Jun 2020 21:21:15 +0000</pubDate>
+	<pubDate>Wed, 29 Jul 2020 11:35:49 +0000</pubDate>
 </item>
 <item>
 	<title>Cardano Must Reads</title>
@@ -27,7 +33,7 @@
 	<title>Manifesto</title>
   <link>/post/manifesto.html</link>
 	<description></description>
-	<pubDate>Sun, 28 Jun 2020 19:28:47 +0000</pubDate>
+	<pubDate>Wed, 29 Jul 2020 12:12:28 +0000</pubDate>
 </item>
 
 </channel>

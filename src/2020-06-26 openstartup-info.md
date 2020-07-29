@@ -27,7 +27,7 @@ At this moment, we are running on these 2 networks; although we hope [ITN (Incen
 | ----------------------------------------------------------------------------- | ------------ |
 | Kubernetes cluster *                                                          | ~$100        |
 | Homepage: currently on Github Pages                                           | -            |
-| Domain registration (until we move to `larepsistance` on [HNS]                | ~$3          |
+| Domain registration (until we move to `larepsistance` on [HNS])               | ~$3          |
 | Anti-DDoS protection (1 IP)                                                   | $30          | 
 | ESTIMATED TOTAL (storage and traffic are variable)                            | ~$150        |
 
@@ -37,13 +37,10 @@ At this moment, we are running on these 2 networks; although we hope [ITN (Incen
 
 | Description                                                                   | Monthly cost |
 | ----------------------------------------------------------------------------- | ------------ |
-| Kubernetes cluster *                                                          | ~$800        |
-| Homepage: currently on Github Pages                                           | -            |
-| Domain: none.guru                                                             | ~$3          |
-| Anti-DDoS protection (10 IP)                                                  | $240         | 
-| ESTIMATED TOTAL (storage and traffic are variable)                            | ~$1200       |
+| Kubernetes cluster *                                                          | ~$200        |
+| ESTIMATED TOTAL (storage and traffic are variable)                            | ~$300       |
 
-`* 24*4VCPU/12GB nodes`
+`* 8*4VCPU/12GB nodes`
 
 [itn]: https://testnets.cardano.org/en/itn/overview/
 [shelley-testnet]: https://testnets.cardano.org/en/shelley/overview/
@@ -51,3 +48,4 @@ At this moment, we are running on these 2 networks; although we hope [ITN (Incen
 [jormungandr]: https://github.com/input-output-hk/jormungandr 
 [pieter-levels-twitter]: https://twitter.com/levelsio/status/968219339588493312
 [nomadlist-openstartup]: https://nomadlist.com/open
+[HNS]: https://handshake.org/
