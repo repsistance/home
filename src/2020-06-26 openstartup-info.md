@@ -6,41 +6,15 @@ Although rewards for the pools will be, obviously, publicly available, our idea 
 
 ## Costs summmary
 
-Our initial plan is to run at least two different clusters: 
-
-* One for testnets (whatever amount of them)
-* One for the `mainnet` one
-
-Future plan is to deploy a network of backup nodes all around the world along with little local providers/datacenters that trully make Cardano a decentralized network.
-
-### Testnet(s)/Development cluster(s) 
-
-We are currently hosting various pools on different testnets in this cluster so we can get insights on resources consumption, deployment and maintenance processes and any other development on top of Cardano project. 
-We also run software builds on it and we'll probably also run temporary/development clones of this cluster for running simulations of tasks that could potentially, interrupt the operation on some critical testnets (like incentivised ones).
-
-At this moment, we are running on these 2 networks; although we hope [ITN (Incentivised Testnet)][itn] survives so we can also host a [jormungandr] cluster soon:
-
-* Haskell [shelley-testnet]
-* Haskell [guild-operators] Private Testnet
-
-| Description                                                                   | Monthly cost |
-| ----------------------------------------------------------------------------- | ------------ |
-| Kubernetes cluster *                                                          | ~$100        |
-| Homepage: currently on Github Pages                                           | -            |
-| Domain registration (until we move to `larepsistance` on [HNS])               | ~$3          |
-| Anti-DDoS protection (1 IP)                                                   | $30          | 
-| ESTIMATED TOTAL (storage and traffic are variable)                            | ~$150        |
-
-`* 4*3VCPU/4GB nodes`
-
-### Estimates for mainnet
-
 | Description                                                                   | Monthly cost |
 | ----------------------------------------------------------------------------- | ------------ |
 | Kubernetes cluster *                                                          | ~$200        |
-| ESTIMATED TOTAL (storage and traffic are variable)                            | ~$300       |
+| Homepage: currently on Github Pages                                           | -            |
+| Domain registration (until we move to `larepsistance` on [HNS])               | ~$3          |
+| Pool operator workforce                                                       | ~$100        |
+| ESTIMATED TOTAL                                                               | ~$303        |
 
-`* 8*4VCPU/12GB nodes`
+`* 2*3VCPU/4GB (ha-monitoring) + 4*3VCPU/4GB nodes (3 * public relays + 1 block producer)`
 
 [itn]: https://testnets.cardano.org/en/itn/overview/
 [shelley-testnet]: https://testnets.cardano.org/en/shelley/overview/
