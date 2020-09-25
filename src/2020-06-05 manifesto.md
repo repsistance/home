@@ -12,8 +12,8 @@ This implies some commitments, so here are ours:
 
 And last but not least, we'll try to keep our operational costs and fees as low as possible, starting from these numbers:
 
-* Fixed Fee: 420 ADA per epoch. 1 epoch equals to 5 days in mainnet.
-* Variable Fee: 4.2%
+* Fixed Fee: 340 ADA per epoch. 1 epoch equals to 5 days in mainnet.
+* Variable Fee: will be set to ecosystem's average, currently, 2.4%.
 
 [openstartup]: https://twitter.com/levelsio/status/968219339588493312
 [openstartup-info]: https://repsistance.com/post/openstartup-info.html
