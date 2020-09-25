@@ -8,4 +8,4 @@
         \/    \/          \/     \/|__|       \/        \/            \/     \/     \/        \/ 
 ```
 Back from the 80's to preserve a neutral, decentralized, censorship-resistant Internet. 
-And to have fun running bleeding edge software :D!
+And to have fun running bleeding edge software like Cardano StakePools :D!
