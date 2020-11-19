@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/rcmorano
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://repsistance.com
+  * I am rcmorano (https://keybase.io/rcmorano) on keybase.
+  * I have a public key with fingerprint 8A7E 4BAA AC16 185E 46CD  7A30 9EE3 832B CB0F F36D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120703b5f2dc2717161aee3f2b9f9e8f2c5ed8894c6e3dbc7325531d89d9971279d0a",
+      "fingerprint": "8a7e4baaac16185e46cd7a309ee3832bcb0ff36d",
+      "host": "keybase.io",
+      "key_id": "9ee3832bcb0ff36d",
+      "kid": "01019bb4811a33b885894de7e30c23c728a7d0c38c03f5d31de328f2a0b80670b52f0a",
+      "uid": "953f040b0a03fac46a8458eec3a2ce19",
+      "username": "rcmorano"
+    },
+    "service": {
+      "hostname": "repsistance.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1605798455,
+  "expire_in": 157680000,
+  "prev": "dcbee468cadbce2813be718c729a4238c851f1084faeb807776ecffaa55f66f9",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJ7UBVVHL5AFBBqhmGUCW4UIy/3cfd1YwqxISIjwHKKjOvZ3bOwA3f3
+cncBQXwMTIpEM0X0EDK1rBleSWAQSdxIkFv4GB4yRWgxGiFPzcJKBjuX4r/OP2fO
+73zf9/t+3zldy7xMfh4fXC6J6F1xw+bR21mda7K2lLE7MUGTCjDLTiwLLm4wW4K6
+Yc1SJMyC4QSJszgl0DIpiSRLsARDAAgpmRR4mYecTIo0lDiON4sMpCRBZCmSpilC
+4niJ51mCZHkJB1gkJitqBnTYHYpqIFkOsNAsAABEpMfR0MyIEgsonEfSHEUKooDL
+MsVIiJip6W4GMicAHUYrGqqhg3XR3v/gl3zjBC8IZo4gAEUJHEcjixJkIYWLJCWy
+JHIg4SLFiTgl0xIyDCkSTQNwgcMZFhdoUl70nftvH5qScTMu4ADBgWhmAGemOQhF
+CpAiJHg3UIcOFdggQjtEm+YAqobtisRQNU8RoTtY9yRLCGjXFd0AqgijRc2G6HaH
+Zmiilo0uMw3DrlvcZKPA7kbnQ8H6n45VUFQJRYkYedChK5qKWQiEFA3FLUwwOM3y
+yBsdicEddsUBrYobQbMMh6Pl7gPzkKQkChClzokAvRkkOYISIEtwKBgemEkUC0cT
+MoFzZhlAlAjLsgwUZRkAmpYZRnYPrMMcNKKFQqIGyECaupKhAiPXAbFd33Ruu8Pk
+4We609vT/cdMfr73LP28OHLFQkx+V3HixGjQpaTo4lND18S+jqKnhPtH/r7r23WB
+NlP7T3drlVZVuFK4kDM+c8m/zGg+/GJxct3ZE/PhY/ry7rk/vjpWaA+rGi75pSVk
+z8K6oAE4MZrg89DVW7bO4UFvo+/G0bdqP8FD8p9bO7uvqTy5+fbPpV3+n33vM/FY
+QHH7gYTAyd2vpmYdTM9zHTrRvflWbbzT4mJCa/KJQmf72IcL51auXdvQqzZNPtEq
+56QP+1sLyrsb09aHVTkT72uu9tW+GB99pjHd/Dh8cqi+36Opra2nwbWnd9xzf0k1
+HhXV2F+ira4NI/zL7jX5bF39Umj2NCwqPBWcdfnw+tA4bTptfuQN58DbKauSlk0U
+rHnn1/pi38n31fNjoQH9qY18wsn2v5w3U9XTsTGPHhtIS1kVUdRwzvvr2PAN8iON
+4Xir03eL8ibeeaarJr52f/3Zhocp0wsPJsVsmq2c/e6BqtztHdF915M8Ss9fy658
+rwf+FjJFbhoLratI7j1In5xaPjh5dfNFvSZ4TabnnyupobQNu6dcem1g/GvvHvqd
+GyqKi5qLTUnw+vH6l/ZBr4jWUf2jxPZ9e0v3bjVdtD/PkjOf377QO932NHO8zPZp
+QNDL4x9fsdhc8XVbZiq25VZw4PRgtGtj+Q+v7JifOxBv7WCnn715ZPuR12dHjpa2
+ZAxWz2VM9pRMWM4EX5g+/g8q8tG0
+=L2xS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rcmorano
+
+==================================================================
