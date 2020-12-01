@@ -4,7 +4,7 @@ In order to provide transparency we aim to follow the OpenStartup philosophy rai
 
 Although rewards for the pools will be, obviously, publicly available, our idea is to extend that information on this page by explaining costs and future plans and to provide insights about the business lively like Pieter do for its [NomadList][nomadlist-openstartup].
 
-## Costs summmary
+## PEACE Pool Costs Summmary
 
 | Description                                                                   | Monthly cost |
 | ----------------------------------------------------------------------------- | ------------ |
@@ -23,3 +23,9 @@ Although rewards for the pools will be, obviously, publicly available, our idea 
 [pieter-levels-twitter]: https://twitter.com/levelsio/status/968219339588493312
 [nomadlist-openstartup]: https://nomadlist.com/open
 [HNS]: https://handshake.org/
+
+## PEACE Pool billing publishments
+
+* [202009][202009]
+
+[202009]: https://twitter.com/repsistance/status/1301839516165197824
