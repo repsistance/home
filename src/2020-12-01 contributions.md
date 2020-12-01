@@ -1,4 +1,4 @@
-# OUR CONTIRBUTIONS
+# OUR CONTRIBUTIONS
 
 ## OpenSource projects
 
