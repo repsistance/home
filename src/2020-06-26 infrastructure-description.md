@@ -1,4 +1,4 @@
-# Cardano Infrastructure Description
+# PEACE Pool Infrastructure Description
 
 `TODO: explain and develop further these points`
 - [] k8s setup to easily scale up/be resilient and highly available
