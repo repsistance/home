@@ -2,7 +2,7 @@
 
 Dandelion Link is as a community service we run so anyone can use to start building on top of Cardano official APIs right here, right now; without the need of syncing the ledger locally.
 
-And IT'S FREE! Forever. Unless you plan to use it for commercial projects ([contact us][contact-us] for that :)
+And IT'S FREE! Forever. Unless you plan to use it for commercial projects ([contact us][contact-dandelion] for that :)
 
 ## Development
 
