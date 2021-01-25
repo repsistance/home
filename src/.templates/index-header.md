@@ -8,5 +8,4 @@
         \/    \/          \/     \/|__|       \/        \/            \/     \/     \/        \/ 
 ```
 [Peace][peace]pool activists in favour of a decentralized, neutral, censorship-resistant Internet. 
-And to have fun running bleeding edge software :D!
 [peace]:https://pooltool.io/pool/bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16/delegators
