@@ -11,6 +11,7 @@
 * [LacedWhales][lacedwhales]: Twitter bot broadcasting Cardano whales' transactions
 * [dandelion.link][blogpost-dandelion-link]: your lightweight API link to Cardano as a Community Service
 * [Cardano Mainnet peers spreadsheet][cardano-mainnet-peers-info]: decentralization analysis focused on country and infrastructure providers variables. Based on [IOHK's public topology][iohk-mainnet-topology] data.
+* [CodingOnChain][coding-on-chain-youtube]: Youtube channel where we do live coding sessions about Cardano (and not only).
 
 [lacedwhales]: https://twitter.com/LacedWhales
 [kustomize-docker-cardano-node]: https://github.com/repsistance/kustomize-cardano-node
@@ -19,3 +20,4 @@
 [cardano-mainnet-peers-info]: https://docs.google.com/spreadsheets/d/1kAT7LR6Yk3kryQQR2LdOG2tEhGtDUbCzl4VsU44asU0/edit#gid=1733001436
 [iohk-mainnet-topology]: https://explorer.mainnet.cardano.org/relays/topology.json
 [blogpost-dandelion-link]: https://repsistance.com/post/dandelion.html
+[coding-on-chain-youtube]: https://www.youtube.com/channel/UChp9R55VgwkjMzGP9qMa66g
