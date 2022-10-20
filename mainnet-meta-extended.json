@@ -1,6 +1,7 @@
 {
     "info": {
         "adapools_verify_hash": "317bada458ceeb6c5373b220eba92974",
+        "cexplorer_verify_hash": "909be1e753fdb70c50"
         "url_png_icon_64x64": "https://repsistance.github.io/home/static/logo-64x64.png",
         "url_png_logo": "https://repsistance.github.io/home/static/logo.png",
         "location": "Paris, France",
