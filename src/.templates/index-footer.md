@@ -1,4 +1,4 @@
-[home][home] - about La RepsistancE: [Twitter][twitter] [Telegram][tg-support-chan] [Github][github] [PEACE][adapools] [POOL][pooltool]
+[home][home] - about La RepsistancE: [Twitter][twitter] [Github][github] [PEACE][adapools] [POOL][pooltool]
 
 Made with [Jenny's love][jenny-love] with a [customized layout.][jenny-layout]
 DISCLAIMER: No cookies nor JavaScript is used in this website. Privacy first.
